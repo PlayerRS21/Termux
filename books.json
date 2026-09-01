@@ -1,0 +1,30 @@
+{
+    "Syntax Error": {
+        "BookName": "Syntax Error",
+        "Author": "Mr Hacker",
+        "Year of Publishtion": "2025",
+        "location": "Shelf 4 Row 5",
+        "inStore": true
+    },
+    "Mr Robot": {
+        "BookName": "Mr Robot",
+        "Author": "Hackers Group",
+        "Year of Publishtion": "2030",
+        "location": "Shelf :7, Row: 2",
+        "inStore": true
+    },
+    "Sudo": {
+        "BookName": "Sudo",
+        "Author": "Linux",
+        "Year of Publishtion": "2000",
+        "inStore": true,
+        "location": "Shelf :5, Row: 2"
+    },
+    "MySelf": {
+        "BookName": "MySelf",
+        "Author": "Ritesh",
+        "Year of Publishtion": "2040",
+        "inStore": true,
+        "location": "Shelf :8, Row: 1"
+    }
+}
